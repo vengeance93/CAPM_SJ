@@ -6,3 +6,4 @@ module.exports = (srv) => {
         return "Hey Amigo ! " + req.data.name;
     });
 }
+//Comment
